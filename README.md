@@ -6,3 +6,4 @@ kelas : C <br />
 
 File uas adalah Source Code codingan PHP dan CSS <br />
 File uaspweb adalah file sql  dari database <br />
+File screenshot adalah kumpula screenshot tampilan webstie <br />
